@@ -82,4 +82,14 @@ html{
     width:30%;
     left:20%;
   }
+ @media (max-width:600px){
+    .time{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 7rem;
+      
+    }
+  }
   
